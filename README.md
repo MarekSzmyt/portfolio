@@ -9,7 +9,7 @@ Speaking of user testing, I love working with users. And I can't stress enough h
 
 I'm curious by nature and I like to know how things work. Since I work closely with developers, I'm constantly improving my knowledge about frontend technologies. I've also been spending some time learning a bit more about QA work and processes.
 
-[linkedin](https://www.linkedin.com/in/marekszmyt/) | [figma](https://www.figma.com/@MarekSzmyt) | [github](https://github.com/MarekSzmyt)
+**Socials:** [linkedin](https://www.linkedin.com/in/marekszmyt/) | [figma](https://www.figma.com/@MarekSzmyt) | [github](https://github.com/MarekSzmyt)
 
 ## UX/UI Design
 ### Selected projects
@@ -21,7 +21,7 @@ Bonito - online bookstore and more `ecommerce`
 
 ---
 
-BeActiveTV - Ewa Chodakowska's fitness app `fitness`
+BeActiveTV - fitness app `fitness` `vod`
 
 [App](https://apps.apple.com/us/app/beactivetv-pl/id1549817661?platform=iphone)
 > This was an interesting project, which was, at its core, just a VOD platform. Aligning with multiple teams was a challenging task, but it was also great to see all the different adaptations (website, TV, mobile devices, smartwatches) come together.
@@ -40,7 +40,7 @@ Figma, Axure, Miro, Google Analytics, RapidUsertests, Jira
 
 ## Coding
 
-[CodersLab](https://coderslab.pl/pl/javascript-developer-react) - JavaScript Developer (240h) [final project](https://github.com/MarekSzmyt/mars-colonist)
+[CodersLab](https://coderslab.pl/pl/javascript-developer-react) - JavaScript Developer (240h) | [final project](https://github.com/MarekSzmyt/mars-colonist)
 
 >What I learned?
 - how to work with GitHub
