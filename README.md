@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio | Marek Szmyt
 ![Doodle with an "M' letter in the middle.](/assets/images/cover.png)
 ## 👋 About me
 
