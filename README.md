@@ -1,4 +1,5 @@
 # Portfolio
+![Doodle with an "M' letter in the middle.](/assets/images/cover.png)
 ## Abut Me
 Hi! My name is Marek, and I'm a Product Designer with a passion for user testing and design systems.
 
