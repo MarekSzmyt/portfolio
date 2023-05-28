@@ -49,7 +49,10 @@ women lingerie brand `ecommerce` `fashion`
 
 ## 💻 Coding
 
-### [CodersLab](https://coderslab.pl/pl/javascript-developer-react) - JavaScript Developer (240h) | [final project](https://github.com/MarekSzmyt/mars-colonist)
+### [CodersLab](https://coderslab.pl/pl/javascript-developer-react) - JavaScript Developer (240h)
+[**mars-colonist / final project**](https://github.com/MarekSzmyt/mars-colonist) → Weather app for mars astronauts with task manager (using [NASA API](https://api.nasa.gov/))
+
+![Desktop screens form the app showing weather.](/assets/images/app-screens.png)
 
 >What I learned?
 - how to work with GitHub
@@ -62,11 +65,12 @@ women lingerie brand `ecommerce` `fashion`
 
 ### [SQL Basics](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
-### [DareIT](https://www.dareit.io/challenges/qa-manual-testing) - Become a Manual Tester (40h) | [whole project](https://github.com/MarekSzmyt/challenge_portfolio_marek#table-of-contents)
+### [DareIT](https://www.dareit.io/challenges/qa-manual-testing) - Become a Manual Tester (40h)
+[**whole project**](https://github.com/MarekSzmyt/challenge_portfolio_marek#table-of-contents)
 
 >What I learned?
 - methods of manual testing
 - how to create test cases, report bugs and make test reports → [📊 report](https://docs.google.com/spreadsheets/d/1iiE9J9AH0uCzbSfIuPodX0WcmWq8aLDkDDmnVszWsa8/edit?usp=sharing) | [✅ test cases](https://docs.google.com/document/d/1UFOdOIuCxAj-YNvehxKNawdWyxfMCO9-I0A9pZeTxfw/edit?usp=sharing) | [❌ bug reports](https://docs.google.com/document/d/15Mj7BSwYYjIpi1GvPfLHnKzI-z15UBQHYx3gEx1i3EQ/edit?usp=sharing)
 - what are the differences between web and native app testing → [📊 olx app testing](https://docs.google.com/document/d/1HKlwypUkiFY4RdIiLoQ2dvxXfgyWlWTDc2707NsmrsQ/edit)
 - basics of SQL → [🎯 exercises I](https://github.com/MarekSzmyt/challenge_portfolio_marek#subtask-3---exercises) | [🎯 exercises II](https://github.com/MarekSzmyt/challenge_portfolio_marek#subtask-1---exercises)
-- tools → xampp, sql server
+- tools → xampp, sql server, ssms
