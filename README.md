@@ -39,7 +39,7 @@ Ewa Chodakowska's fitness platform `fitness` `vod`
 
 women lingerie brand `ecommerce` `fashion`
 
-> Again, tackling both the website and mobile app is a cool thing. It really highlights the differences between both of them. Especially the website needs to be very flexible when it comes to adapting it to multiple languages, currencies, and possible sub-domains.
+> Again, tackling both the website and mobile app is a great thing. It really highlights the differences between both of them. For this project the website needed to be very flexible when it comes to adapting it to multiple languages, currencies, and possible sub-domains.
 
 ---
 
