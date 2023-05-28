@@ -42,6 +42,8 @@ I'm curious by nature and I like to know how things work. Since I work closely w
 
 **🔨 Most used tools** → Figma, Axure, Miro, Google Analytics, RapidUsertests, Jira
 
+---
+
 ## 💻 Coding
 
 [CodersLab](https://coderslab.pl/pl/javascript-developer-react) - JavaScript Developer (240h) | [final project](https://github.com/MarekSzmyt/mars-colonist)
@@ -64,3 +66,4 @@ I'm curious by nature and I like to know how things work. Since I work closely w
 - how to create test cases, report bugs and make test reports → [📊 report](https://docs.google.com/spreadsheets/d/1iiE9J9AH0uCzbSfIuPodX0WcmWq8aLDkDDmnVszWsa8/edit?usp=sharing) | [✅ test cases](https://docs.google.com/document/d/1UFOdOIuCxAj-YNvehxKNawdWyxfMCO9-I0A9pZeTxfw/edit?usp=sharing) | [❌ bug reports](https://docs.google.com/document/d/15Mj7BSwYYjIpi1GvPfLHnKzI-z15UBQHYx3gEx1i3EQ/edit?usp=sharing)
 - what are the differences between web and native app testing → [📊 olx app testing](https://docs.google.com/document/d/1HKlwypUkiFY4RdIiLoQ2dvxXfgyWlWTDc2707NsmrsQ/edit)
 - basics of SQL → [🎯 exercises I](https://github.com/MarekSzmyt/challenge_portfolio_marek#subtask-3---exercises) | [🎯 exercises II](https://github.com/MarekSzmyt/challenge_portfolio_marek#subtask-1---exercises)
+- tools: xampp, sql server
