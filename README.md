@@ -17,7 +17,16 @@ I'm curious by nature and I like to know how things work. Since I work closely w
 **Socials:** [linkedin](https://www.linkedin.com/in/marekszmyt/) | [figma](https://www.figma.com/@MarekSzmyt) | [github](https://github.com/MarekSzmyt)
 
 ## ✏️ UX/UI Design
-**Selected projects 🤌**
+**🎓 Skills & knowlegdebase**
+- UX Research → benchmarking, competitor analysis, UX audits
+- User Testing → A/B testing, user interviews, product discovery
+- Prototyping → figma, axure, sketch
+- Design Systems → documentation & maintenance
+- Workshops → miro, figjam, design thinking
+
+---
+
+**🤌 Selected projects**
 
 ### Bonito → [Website](https://bonito.pl/) | [App](https://apps.apple.com/pl/app/bonito/id1511513709)
 
