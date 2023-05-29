@@ -8,7 +8,7 @@ Hi! My name is Marek, and I'm a Product Designer with a passion for user testing
 
 I usually like to know my tools well. Whether it's Figma, Axure, Google Docs, Miro, Jira or Slack, I will know their limitations and some cool features that will help me work without any obstacles. I enjoy sharing my knowledge with colleagues, trying to be involved in design team trainings, company conferences, or just chatting around coffee about the latest findings from user tests.
 
-Speaking of user testing, I love working with users. And I can't stress enough how valuable their input is. Finding their struggles and verifying their hypotheses is a crucial part of my day-to-day work.
+Speaking of user testing, I love working with users. And I can't stress enough how valuable their input is. Finding their struggles and verifying our hypotheses is a crucial part of my day-to-day work.
 
 I'm curious by nature and I like to know how things work. Since I work closely with developers, I'm constantly improving my knowledge about frontend technologies. I've also been spending some time learning a bit more about QA work and processes.
 
@@ -28,14 +28,6 @@ I'm curious by nature and I like to know how things work. Since I work closely w
 
 **🤌 Selected projects**
 
-### Bonito → [Website](https://bonito.pl/) | [App](https://apps.apple.com/pl/app/bonito/id1511513709)
-
-online bookstore and more `ecommerce`
-
-> This was a very fulfilling project since I had a rare opportunity to be involved in the rebranding process. Apart from that, tackling both the website and mobile app was a great challenge that benefited both platforms in the end.
-
----
-
 ### BeActiveTV → [App](https://apps.apple.com/us/app/beactivetv-pl/id1549817661?platform=iphone)
 
 Ewa Chodakowska's fitness platform `fitness` `vod`
@@ -44,11 +36,27 @@ Ewa Chodakowska's fitness platform `fitness` `vod`
 
 ---
 
+### Bonito → [Website](https://bonito.pl/) | [App](https://apps.apple.com/pl/app/bonito/id1511513709)
+
+online bookstore and more `ecommerce`
+
+> This was a very fulfilling project since I had a rare opportunity to be involved in the rebranding process. Apart from that, tackling both the website and mobile app was a great challenge that benefited both platforms in the end.
+
+---
+
 ### Esotiq → [Website](https://esotiq.com/pl/pl) | [App](https://apps.apple.com/pl/app/esotiq-bielizna-online/id1641269253?l=pl) 
 
 women lingerie brand `ecommerce` `fashion`
 
 > Again, tackling both the website and mobile app is a great thing. It really highlights the differences between both of them. For this project the website needed to be very flexible when it comes to adapting it to multiple languages, currencies, and possible sub-domains.
+
+---
+
+### HolidayCheck → [Website](https://www.holidaycheck.de/)
+
+holidays platform `travel`
+
+> Working inside a product is a whole different experience. You are able to see the constant development of a platform and gather very insightful findings along the way. Also being a part of a smaller funnel and working with other teams is an interesting and sometimes challenging task.
 
 ---
 
