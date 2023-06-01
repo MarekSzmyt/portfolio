@@ -6,11 +6,11 @@
 
 Hi! My name is Marek, and I'm a Product Designer with a passion for user testing and design systems.
 
-I usually like to know my tools well. Whether it's Figma, Axure, Google Docs, Miro, Jira or Slack, I will know their limitations and some cool features that will help me work without any obstacles. I enjoy sharing my knowledge with colleagues, trying to be involved in design team trainings, company conferences, or just chatting around coffee about the latest findings from user tests.
+I usually like to know my tools well, looking for upcoming updates and new features. Whether it's Figma, Axure, Google Docs, or Miro, I will know their limitations and some cool tricks that will help me work without any obstacles. I enjoy sharing my knowledge with colleagues, trying to be involved in design team trainings, company conferences, or just chatting around coffee about the latest findings from user tests.
 
 Speaking of user testing, I love working with users. And I can't stress enough how valuable their input is. Finding their struggles and verifying our hypotheses is a crucial part of my day-to-day work.
 
-I'm curious by nature and I like to know how things work. Since I work closely with developers, I'm constantly improving my knowledge about frontend technologies. I've also been spending some time learning a bit more about QA work and processes.
+I'm curious by nature and I like to know the bigger context. Since I work closely with developers, I'm constantly improving my knowledge about frontend technologies. I've also been spending some time learning a bit more about QA work and processes.
 
 <br clear="right"/>
 
