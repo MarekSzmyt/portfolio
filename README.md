@@ -24,6 +24,12 @@ I'm curious by nature and I like to know the bigger context. Since I work closel
 - Design Systems → documentation & maintenance
 - Workshops → miro, figjam, design thinking
 
+**Courses and Initiatives**
+
+- [UX Writing Conf](https://www.designpractice.pl/kursy/slowa-ux-writing-conf)
+- [UX Strategy](https://essentials.centercentre.com/) by Jared Spool
+- [IT Girls](https://itgirls.org.pl/en/) Mentor and Volunteer
+
 ---
 
 **🤌 Selected projects**
@@ -57,14 +63,6 @@ women lingerie brand `ecommerce` `fashion`
 holidays platform `travel`
 
 > Working inside a product is a whole different experience. You are able to see the constant development of a platform and gather very insightful findings along the way. Also being a part of a smaller funnel and working with other teams is an interesting and sometimes challenging task.
-
----
-
-**Courses and Initiatives**
-
-- [UX Writing Conf](https://www.designpractice.pl/kursy/slowa-ux-writing-conf)
-- [UX Strategy](https://essentials.centercentre.com/) by Jared Spool
-- [IT Girls](https://itgirls.org.pl/en/) Mentor and Volunteer
 
 ---
 
