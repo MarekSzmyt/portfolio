@@ -62,9 +62,9 @@ holidays platform `travel`
 
 **Courses and Initiatives**
 
-[UX Writing Conf](https://www.designpractice.pl/kursy/slowa-ux-writing-conf)
-[UX Strategy](https://essentials.centercentre.com/) by Jared Spool
-[IT Girls](https://itgirls.org.pl/en/) Mentor and Volunteer
+- [UX Writing Conf](https://www.designpractice.pl/kursy/slowa-ux-writing-conf)
+- [UX Strategy](https://essentials.centercentre.com/) by Jared Spool
+- [IT Girls](https://itgirls.org.pl/en/) Mentor and Volunteer
 
 ---
 
