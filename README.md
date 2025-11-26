@@ -70,6 +70,18 @@ holidays platform `travel`
 
 ---
 
+## 🦮 Accessibilty
+
+I often lead efforts to make things more accessible at work. I have organized projects like checking for accessibility, making plans to improve it, giving training, and writing guidelines.
+
+### [Practical Accessibility with Sara Soueidan](https://practical-accessibility.today/)
+
+> What did I learn?
+- how to understand WCAG, and go beyond it
+- complete toolkit to check if a website is accessible
+- practical solutions form both a design and code perspective
+- ton of context on how real Users with disabilities navigate the digital world
+
 ## 💻 Coding
 
 ### [CodersLab](https://coderslab.pl/pl/javascript-developer-react) - JavaScript Developer (240h)
@@ -77,7 +89,7 @@ holidays platform `travel`
 
 ![Desktop screens form the app showing weather.](/assets/images/app-screens.png)
 
->What I learned?
+> What did I learn?
 - how to work with GitHub
 - HTML, CSS, SCSS
 - Javascript, React
@@ -91,7 +103,7 @@ holidays platform `travel`
 ### [DareIT](https://www.dareit.io/challenges/qa-manual-testing) - Become a Manual Tester (40h)
 [**whole project**](https://github.com/MarekSzmyt/challenge_portfolio_marek#table-of-contents)
 
->What I learned?
+> What did I learn?
 - methods of manual testing
 - how to create test cases, report bugs and make test reports → [📊 report](https://docs.google.com/spreadsheets/d/1iiE9J9AH0uCzbSfIuPodX0WcmWq8aLDkDDmnVszWsa8/edit?usp=sharing) | [✅ test cases](https://docs.google.com/document/d/1UFOdOIuCxAj-YNvehxKNawdWyxfMCO9-I0A9pZeTxfw/edit?usp=sharing) | [❌ bug reports](https://docs.google.com/document/d/15Mj7BSwYYjIpi1GvPfLHnKzI-z15UBQHYx3gEx1i3EQ/edit?usp=sharing)
 - what are the differences between web and native app testing → [📊 olx app testing](https://docs.google.com/document/d/1HKlwypUkiFY4RdIiLoQ2dvxXfgyWlWTDc2707NsmrsQ/edit)
