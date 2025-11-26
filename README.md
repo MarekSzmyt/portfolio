@@ -72,7 +72,7 @@ holidays platform `travel`
 ---
 
 ## 🦮 Accessibilty
-![Simple illustrations of different accessibilty tools.](/assets/images/accessibility.png)
+![Simple illustrations of different accessibilty tools.](/assets/images/a11y.png)
 
 I often lead efforts to make things more accessible at work. I have organized projects like checking for accessibility, making plans to improve it, giving training, and writing guidelines.
 
