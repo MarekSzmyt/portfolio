@@ -16,6 +16,7 @@ I'm curious by nature and I like to know the bigger context. Since I work closel
 
 **Socials:** [linkedin](https://www.linkedin.com/in/marekszmyt/) | [figma](https://www.figma.com/@MarekSzmyt) | [github](https://github.com/MarekSzmyt)
 
+![Simple illustration of generic product card surrounded by icons related to UX tools.](/assets/images/ux.png)
 ## ✏️ UX/UI Design
 **🎓 Skills & knowlegdebase**
 - UX Research → benchmarking, competitor analysis, UX audits
@@ -70,6 +71,7 @@ holidays platform `travel`
 
 ---
 
+![Simple illustrations of different accessibilty tools.](/assets/images/accessibility.png)
 ## 🦮 Accessibilty
 
 I often lead efforts to make things more accessible at work. I have organized projects like checking for accessibility, making plans to improve it, giving training, and writing guidelines.
@@ -82,6 +84,7 @@ I often lead efforts to make things more accessible at work. I have organized pr
 - practical solutions form both a design and code perspective
 - ton of context on how real Users with disabilities navigate the digital world
 
+![Abstract illustration of code made by different squares filled or not filled with color.](/assets/images/coding.png)
 ## 💻 Coding
 
 ### [CodersLab](https://coderslab.pl/pl/javascript-developer-react) - JavaScript Developer (240h)
@@ -95,7 +98,8 @@ I often lead efforts to make things more accessible at work. I have organized pr
 - Javascript, React
 - using external API
 - creating functional, and responsiove websites
-
+- 
+![Simple illustration showing a spyglass reaviling a bug.](/assets/images/testing.png)
 ## 🔍 Manual Testing
 
 ### [SQL Basics](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
